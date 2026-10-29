@@ -1,5 +1,7 @@
 # Roadmap
 
+Owner scheduling, 2026-10-29: waiting for a later session with available usage. Eligible as a "waste usage on" / fun project when explicitly selected for spare allowance approaching reset. No automatic execution.
+
 ## 0.1.0 — Research scaffold
 
 - [x] Capture intent, constraints, and critical objections.
